@@ -6,3 +6,28 @@ https://www.w3schools.com/tags/tag_hn.asp
 <u>underline 밑줄
 <strong>굵게표시
 <p> paragraph 문단 
+<ul or ol>
+	<li>
+	</li>
+</ul or ol>    리스트 만드는것 부모 자식 관계! ul은 unordered, ol은 ordered list
+<table> 
+  <tr>
+    <td>아침</td>
+    <td>점심</td>
+    <td>저녁</td>
+  </tr>
+  <tr>
+    <td>우유</td>
+    <td>빵</td>
+    <td>밥</td>
+  </tr>
+</table>              
+아침 점심 저녁
+우유  빵    밥
+
+
+<meta charset="utf-8"> html페이지를 utf8로 열으렴
+
+<a></a> 태그는 하이퍼링크 태그다!!! 가장 중요함!!!
+<a href="https://www.w3.org/TR/html51/" target="_blank" title="html5 specification">
+hyperLink 대상은 저 주소고 target = 새탭 , 마우스 가져다댓을때 설명 뜨는거는 title로 설정!
