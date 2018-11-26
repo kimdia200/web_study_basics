@@ -6,7 +6,7 @@
 <br> 호스팅이 아니라 그냥 한대의 컴퓨터로 브라우저에서 정보를 요청 서버에서 정보를 보냄 정도만 공부함
 <br>생활코딩의 HTML수업은 종료
 <p> 짧게 메모해놓은것 정리
-<!-- github 사이트에서 호스팅 무료로 가능합니다!!!
+github 사이트에서 호스팅 무료로 가능합니다!!!
 
 https://www.w3schools.com/tags/tag_hn.asp
 모르는태그 여기서 검색 및 예제 확인 가능!~!!
@@ -39,4 +39,4 @@ https://www.w3schools.com/tags/tag_hn.asp
 <a></a> 태그는 하이퍼링크 태그다!!! 가장 중요함!!!
 <a href="https://www.w3.org/TR/html51/" target="_blank" title="html5 specification">
 hyperLink 대상은 저 주소고 target = 새탭 , 마우스 가져다댓을때 설명 뜨는거는 title로 설정!
- -->
+
