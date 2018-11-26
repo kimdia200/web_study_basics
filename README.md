@@ -1,4 +1,4 @@
-<h1>웹스터디 _ 초급</h1>
+<h1>웹스터디 _ 초급(생활코딩 이용)</h1>
 
 <a href="https://kimdia200.github.io/web_study_basics/egoing_Html/index.html">egoing_Html 사이트</a>
 <br>아파치서버를 이용하는데 프로그램은 bitnami WAMP라는 프로그램을 사용해서 서버를 구축해봄<br>
