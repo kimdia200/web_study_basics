@@ -60,3 +60,11 @@ hyperLink 대상은 저 주소고 target = 새탭 , 마우스 가져다댓을때
 	 <br>
 	 단!! id값은 단 한번만 사용할수있음(id는 중복되서는 안된다)
 </p>
+
+<p>
+	BoxModeling 개념
+	<img src="boxModel.jpg" width="100%">
+	<br>
+	Grid의 개념에 대해서 배움
+
+</p>
